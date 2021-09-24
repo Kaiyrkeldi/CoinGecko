@@ -39,4 +39,4 @@ Enter the number of cryptocurrencies that you want to see: 9
 ~~~
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Kaiyrkeldi/CoinGecko/blob/main/LICENSE)
