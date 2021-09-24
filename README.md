@@ -34,8 +34,8 @@ You need enter the number of cryptocurrencies that you want to see.
 ## Usage example:
 
 ~~~
-Enter the number of cryptocurrencies that you want to see: 10
-['Bitcoin', 'Ethereum', 'Cardano', 'Tether', 'Binance Coin', 'XRP', 'Solana', 'Polkadot', 'USD Coin', 'Dogecoin']
+Enter the number of cryptocurrencies that you want to see: 9
+['Bitcoin', 'Ethereum', 'Cardano', 'Tether', 'Binance Coin', 'XRP', 'Solana', 'Polkadot', 'USD Coin']
 ~~~
 
 ## License
